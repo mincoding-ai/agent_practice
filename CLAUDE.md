@@ -5,3 +5,7 @@
 ## 파일 규칙
 
 - 실습에서 사용하는 파일은 `README.md` 파일만 사용합니다.
+
+## Git Commit 규칙
+
+- Git Commit 시 반드시 [@doc/COMMIT_CONVENTION.md](doc/COMMIT_CONVENTION.md) 파일을 참고하여 메시지를 작성합니다.
